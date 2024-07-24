@@ -1,4 +1,3 @@
-# EarthTech
 ---------------- English ----------------<br/>
 This is an efficient concurrent toolkit, if one day, extraterrestrial civilization invades the earth, this toolkit may be an attempt by the software layer to fight against extraterrestrial civilization<br/>
 <br/>
